@@ -15,7 +15,7 @@ const Player = ({ name, team, nationality, jerseyNumber, age, imageUrl }) => {
           <strong>Nationality:</strong> {nationality}
           <br />
           <strong>Jersey Number:</strong> {jerseyNumber}
-          <br />
+          <br /> 
           <strong>Age:</strong> {age}
         </Card.Text>
       </Card.Body>
